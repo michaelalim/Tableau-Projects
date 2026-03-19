@@ -6,9 +6,9 @@ The goal of this repository is to document my learning journey and demonstrate m
 
 ---
 
-## 🚀 What I Learned
+## 🚀 What I Am Learning
 
-Throughout this course, I gained knowledge and practical experience in:
+Throughout this course, I will gain knowledge and practical experience in:
 
 - Data visualization principles
 - Tableau interface and workflow
